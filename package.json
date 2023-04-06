@@ -1,0 +1,22 @@
+{
+  "name": "generator-moment-it",
+  "version": "1.0.0",
+  "description": "This is an example repository for Yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Le Moment IT",
+  "license": "Apache-2.0",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "yeoman-generator": "^5.8.0",
+    "yosay": "^2.0.2"
+  }
+}
